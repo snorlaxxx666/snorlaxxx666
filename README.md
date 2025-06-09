@@ -25,7 +25,9 @@
 ---
 
 ## 🤟 Rock On!
+<div align="center">
+  <img src="https://media1.tenor.com/m/WP8-MHtSVzIAAAAC/avenged-sevenfold-bat-country.gif" alt="Bat Country GIF" />
+</div>
 
-![Bat Country]([([https://media1.tenor.com/m/WP8-MHtSVzIAAAAC/avenged-sevenfold-bat-country.gif](https://media1.tenor.com/m/WP8-MHtSVzIAAAAC/avenged-sevenfold-bat-country.gif))](https://media1.tenor.com/m/WP8-MHtSVzIAAAAC/avenged-sevenfold-bat-country.gif))
 
 </div>
