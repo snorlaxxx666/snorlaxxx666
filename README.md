@@ -26,6 +26,6 @@
 
 ## 🤟 Rock On!
 
-![Bat Country]((https://media1.tenor.com/m/WP8-MHtSVzIAAAAC/avenged-sevenfold-bat-country.gif))
+![Bat Country]([([https://media1.tenor.com/m/WP8-MHtSVzIAAAAC/avenged-sevenfold-bat-country.gif](https://media1.tenor.com/m/WP8-MHtSVzIAAAAC/avenged-sevenfold-bat-country.gif))](https://media1.tenor.com/m/WP8-MHtSVzIAAAAC/avenged-sevenfold-bat-country.gif))
 
 </div>
