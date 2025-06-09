@@ -1,9 +1,8 @@
 
 <div align="center">
 
-<img src="https://cdn.pixabay.com/photo/2017/01/06/19/15/guitar-1959386_1280.jpg" width="80" alt="Guitar" />
   
-#  Welcome to the Bat Country !
+#  Welcome to the Black Parade !
 ---
 
 > **"Except for those who believe and do righteous deeds. For them is a reward uninterrupted."**
