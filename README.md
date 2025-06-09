@@ -3,10 +3,7 @@
 
 <img src="https://cdn.pixabay.com/photo/2017/01/06/19/15/guitar-1959386_1280.jpg" width="80" alt="Guitar" />
   
-# 🎸 Welcome to the Bat Country, I'm snorlaxxx666! 🦇
-
-### *Student | Telkom University, Bandung*
-
+#  Welcome to the Bat Country !
 ---
 
 > **"Except for those who believe and do righteous deeds. For them is a reward uninterrupted."**
@@ -17,7 +14,6 @@
 
 - 🏫 Student at **Telkom University, Bandung**
 - 🤘 Still finding my top skills — the journey is just beginning!
-- 🦇 Rocking a Bat Country vibe across my coding adventures
 - 🖤 Motto: *“Except for those who believe and do righteous deeds. For them is a reward uninterrupted.”*
 
 ---
