@@ -1,8 +1,5 @@
 
 <div align="center">
-
-  
-#  Welcome to the Black Parade !
 ---
 > **"Except for those who believe and do righteous deeds. For them is a reward uninterrupted."**
 ---
